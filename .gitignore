@@ -1,0 +1,26 @@
+# Carpeta donde se almacenan los archivos de respaldo de Visual Studio Code
+.vscode/
+
+# Configuración de proyecto de Visual Studio Code
+.settings.json
+
+# Archivos y directorios generados automáticamente
+node_modules/
+dist/
+*.log
+
+# Variables de entorno y configuraciones sensibles
+.env
+
+# Archivos de dependencias de desarrollo (si usas npm)
+package-lock.json
+
+# Carpeta donde se almacenan los archivos de respaldo de Visual Studio Code
+.vscode/
+
+# Otros archivos específicos de tu IDE o entorno de desarrollo
+.idea/
+
+# Archivos de registro y archivos temporales
+*.log
+*.swp
