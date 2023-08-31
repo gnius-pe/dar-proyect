@@ -1,5 +1,7 @@
 # dar-proyect
 
+[![DAR-LATERAL.png](https://i.postimg.cc/rp00Xpc7/DAR-LATERAL.png)](https://postimg.cc/cKW4f0vc)
+
 ## Instalación
 
 1.- Clona este repositorio en tu máquina local:
