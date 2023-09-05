@@ -6,7 +6,7 @@
 
 1.- Clona este repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/gnius-pe/dar-proyect.git
+   git https://github.com/gnius-pe/dar-proyect.git
    ```
 
 2.- Instalaciones 
